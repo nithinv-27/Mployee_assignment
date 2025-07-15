@@ -19,8 +19,8 @@ This Python tool uses powerful LLMs (LLaMA from Groq and Gemini from Google) to 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/nithinv-27/Mployee_assignment.git
-cd Mployee_assignment
+git clone https://github.com/nithinv-27/Resume_Bullet_Rewriter.git
+cd Resume_Bullet_Rewriter
 ```
 
 ### 2. Create and activate a Python virtual environment
